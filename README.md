@@ -1,2 +1,2 @@
 # Machine-learning-Digit-recognizer
-My first Machine learning project built for my 5th semester design project
+A try at integrating my passion for Machine Learning and my knowledge in Android app development.
