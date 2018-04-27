@@ -7,10 +7,7 @@ import java.util.List;
 public interface Classifier {
    
     public class Recognition {
-        /**
-         * A unique identifier for what has been recognized. Specific to the class, not the instance of
-         * the object.
-         */
+       
         private final String id;
 
         /**
