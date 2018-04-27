@@ -4,10 +4,6 @@ package com.pranavj7.mnist.view;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by amitshekhar on 16/03/17.
- */
-
 public class DrawModel {
 
     public static class LineElem {
