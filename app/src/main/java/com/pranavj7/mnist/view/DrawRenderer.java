@@ -5,10 +5,6 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 
-/**
- * Created by amitshekhar on 16/03/17.
- */
-
 public class DrawRenderer {
     /**
      * Draw lines to canvas
