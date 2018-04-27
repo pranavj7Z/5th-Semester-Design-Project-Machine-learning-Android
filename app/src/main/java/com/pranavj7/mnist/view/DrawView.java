@@ -4,9 +4,7 @@ import android.content.Context;
 import android.graphics.*;
 import android.util.AttributeSet;
 import android.view.View;
-/**
- * Created by amitshekhar on 16/03/17.
- */
+
 
 public class DrawView extends View {
     private Paint mPaint = new Paint();
