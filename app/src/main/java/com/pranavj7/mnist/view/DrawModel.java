@@ -1,6 +1,5 @@
 
 package com.pranavj7.mnist.view;
-
 import java.util.ArrayList;
 import java.util.List;
 
