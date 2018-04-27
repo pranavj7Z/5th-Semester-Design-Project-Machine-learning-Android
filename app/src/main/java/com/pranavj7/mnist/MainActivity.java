@@ -8,7 +8,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.TextView;
 
-
 import com.pranavj7.mnist.view.DrawModel;
 import com.pranavj7.mnist.view.DrawView;
 
