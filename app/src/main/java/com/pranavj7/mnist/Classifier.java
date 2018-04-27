@@ -4,14 +4,8 @@ import android.graphics.RectF;
 
 import java.util.List;
 
-
-/**
- * Generic interface for interacting with different recognition engines.
- */
 public interface Classifier {
-    /**
-     * An immutable result returned by a Classifier describing what was recognized.
-     */
+   
     public class Recognition {
         /**
          * A unique identifier for what has been recognized. Specific to the class, not the instance of
