@@ -5,7 +5,6 @@ import android.graphics.*;
 import android.util.AttributeSet;
 import android.view.View;
 
-
 public class DrawView extends View {
     private Paint mPaint = new Paint();
     private DrawModel mModel;
