@@ -15,8 +15,6 @@ import android.content.res.AssetManager;
 import android.support.v4.os.TraceCompat;
 import android.util.Log;
 
-
-
 /**
  * A classifier specialized to label images using TensorFlow.
  */
